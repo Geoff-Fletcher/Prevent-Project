@@ -44,7 +44,8 @@ I used [Balsamiq](https://balsamiq.cloud/). to mock up all the wireframes for th
 
 ![New Wireframe 3](https://github.com/user-attachments/assets/74780ffb-3aaf-4fc6-9e85-d8f1e4170107)
 
-![New Wireframe 4](https://github.com/user-attachments/assets/783815e7-e495-4a8b-822f-14cf4dfc0ab6)
+![New Wireframe 4](https://github.com/user-attachments/assets/63678704-dc35-4980-9763-36c67987b237)
+
 
 
 
