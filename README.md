@@ -14,12 +14,14 @@ Followed by a **Report Now** call to action button that should make clear to a u
 ## UX
 
 This website was designed to be as clear and concise as possible and have a simple flow to help a user navigate with ease even if they were accessing it in a stressful situation. The colors chosen are bold and contrasting to make it easy to read but also suggest the idea of action since the prevent initiative is all about everyone doing their part and taking action when necessary. The images are there to bring a slightly more relaxing tone and remind users that Prevent is primarily about communities coming together to protect their own members and others around them.
+
 ---
 
 ## Color Scheme
 
 The contrast color scheme is designed to make it easy for users to navigate and draw the eye round the page. The color scheme makes the actions on the website really draw the eye and easy to identify which I think helps suggest the idea that Prevent is an active duty and that the user should feel confident to do what they think is necessary.
 I used coolers to generate the my color palette for this website
+
 ---
 
 ## Typography
@@ -29,6 +31,7 @@ I used Google Fonts to provide Roboto as the primary font for this site. I think
 [Fontawesome](https://fonts.google.com/)
 
 [Google Fonts](https://fontawesome.com/)
+
 ---
 
 ## Wireframes
