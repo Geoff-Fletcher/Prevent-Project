@@ -6,7 +6,7 @@ README
 
 ## Color Scheme
 
-##T ypography
+## Typography
 
 ## Wireframes
 
