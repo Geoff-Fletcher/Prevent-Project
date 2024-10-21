@@ -131,6 +131,8 @@ You can fork this repository by using the following steps:
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
 ## Citations
+The websites and resources listed here were used to educate and inspire the production of this site and where listed provide snippets of code and/or act a tutorials in how to craft certain elements of the project:
+
 ---
 
 ## Acknowledgements
