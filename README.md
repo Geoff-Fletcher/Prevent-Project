@@ -1,12 +1,16 @@
 README
 
 ### PREVENT
+---
 
 ## UX
+---
 
 ## Color Scheme
+---
 
 ## Typography
+---
 
 ## Wireframes
 
