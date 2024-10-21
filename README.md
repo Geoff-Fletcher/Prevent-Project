@@ -13,8 +13,10 @@ README
 ---
 
 ## Wireframes
+---
 
 ## Features/User Stories
+---
 
 # Contact
 
@@ -25,16 +27,21 @@ README
 # Report
 
 ## Tools & Technologies Used
+---
 
 ## Testing
+---
 
 ## Deployment
+---
 
 # Local Deployment
 
 # Cloning
 
 ## Citations
+---
 
 ## Acknowledgements
+---
 
