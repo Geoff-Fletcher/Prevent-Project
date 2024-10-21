@@ -27,6 +27,7 @@ I used coolers to generate the my color palette for this website
 I used Google Fonts to provide Roboto as the primary font for this site. I think this is a great choice since it is bold, easy to read and appropriately business like for what is a serious topic. I used Fontawesome for my icion which are mostly just for social media links for this site.
 
 [Fontawesome](https://fonts.google.com/)
+
 [Google Fonts](https://fontawesome.com/)
 ---
 
