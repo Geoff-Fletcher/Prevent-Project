@@ -1,13 +1,14 @@
 /* General Styles*/
 
-body{
+body {
     font-family: "Roboto", sans-serif;
     min-height: 100vh;
 }
 
 .pushdown {
-    margin-top: 60px;
+    margin-top: 70px;
 }
+
 
 h1, h2, h3  {
     font-family: "Roboto", sans-serif;
@@ -81,9 +82,9 @@ nav {
 
 /* Image Styles*/
 
-.container-fluid {
+/* .container-fluid {
     Padding: 0;
-}
+} */
 
 /* Heading Styles */
 
