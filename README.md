@@ -104,7 +104,7 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/shellym96/project1) 
+1. Go to the [GitHub repository](https://github.com/Geoff-Fletcher/Prevent-Project) 
 2. Locate the Code button above the list of files and click it 
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash or Terminal
