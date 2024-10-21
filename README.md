@@ -11,7 +11,7 @@ terrorism strategy; the main aim of which is to stop people being drawn into or 
 Followed by a **Report Now** call to action button that should make clear to a user who feels that they or someone else is in immediate danger there is something they can do right now.
 ---
 
-### UX
+## UX
 
 This website was designed to be as clear and concise as possible and have a simple flow to help a user navigate with ease even if they were accessing it in a stressful situation. The colors chosen are bold and contrasting to make it easy to read but also suggest the idea of action since the prevent initiative is all about everyone doing their part and taking action when necessary. The images are there to bring a slightly more relaxing tone and remind users that Prevent is primarily about communities coming together to protect their own members and others around them.
 ---
