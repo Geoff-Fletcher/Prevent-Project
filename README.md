@@ -1,36 +1,36 @@
 README
 
-PREVENT
+### **PREVENT**
 
-UX
+## UX
 
-Color Scheme
+## Color Scheme
 
-Typography
+##T ypography
 
-Wireframes
+## Wireframes
 
-Features/User Stories
+## Features/User Stories
 
-Contact
+# Contact
 
-Footer
+# Footer
 
-Recognise
+# Recognise
 
-Report
+# Report
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
-Testing
+## Testing
 
-Deployment
+## Deployment
 
-Local Deployment
+# Local Deployment
 
-Cloning
+# Cloning
 
-Citations
+## Citations
 
-Acknowledgements
+## Acknowledgements
 
