@@ -17,6 +17,9 @@ This website was designed to be as clear and concise as possible and have a simp
 ---
 
 ## Color Scheme
+
+The contrast color scheme is designed to make it easy for users to navigate and draw the eye round the page. The color scheme makes the actions on the website really draw the eye and easy to identify which I think helps suggest the idea that Prevent is an active duty and that the user should feel confident to do what they think is necessary.
+I used coolers to generate the my color palette for this website
 ---
 
 ## Typography
