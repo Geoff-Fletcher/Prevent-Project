@@ -35,6 +35,9 @@ I used Google Fonts to provide Roboto as the primary font for this site. I think
 ---
 
 ## Wireframes
+
+I used [Balsamiq](https://balsamiq.cloud/). to mock up all the wireframes for this project which went for a mobile 1st design but i also built in versatility to give myself an idea what i wanted for both larger tablets and desktops.
+
 ---
 
 ## Features/User Stories
