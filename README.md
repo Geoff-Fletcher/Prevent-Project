@@ -54,6 +54,10 @@ I used [Balsamiq](https://balsamiq.cloud/). to mock up all the wireframes for th
 ---
 
 ## Features/User Stories
+
+There are 4 featured pages for this website with a dropdown menu provided to easily navigate from any page to any other. In the spririt of mobile 1st design this has been masked by a "burger" icon for mobile and other smaller screens that provides a nested drop down when hovered over this should improve accesibility by avoiding having to click very samml navbar links on touch screens.
+There are 2 clear buttons; the submit for the Prevent newsletter and the primary call to action to allow the user to make a report when needed as part of the prevent initiative.
+
 ---
 
 # Contact
@@ -65,6 +69,20 @@ I used [Balsamiq](https://balsamiq.cloud/). to mock up all the wireframes for th
 # Report
 
 ## Tools & Technologies Used
+
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
+- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [Balsamiq](https://balsamiq.com/wireframes/desktop/#) to create wireframes.
+- [fontpair](https://www.fontpair.co/all) to pick my font.
+- [fontawesome](https://fontawesome.com/) to pick choose my icons.
+- [Am I Responsive](https://ui.dev/amiresponsive) for my own mockups on various screen sizes.
 ---
 
 ## Testing
