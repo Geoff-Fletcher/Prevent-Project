@@ -80,7 +80,7 @@ There are 2 clear buttons; the submit for the Prevent newsletter and the primary
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/#) to create wireframes.
-- [fontpair](https://www.fontpair.co/all) to pick my font.
+- [Google Fonts](https://www.fonts.google.com) to pick my font.
 - [fontawesome](https://fontawesome.com/) to pick choose my icons.
 - [Am I Responsive](https://ui.dev/amiresponsive) for my own mockups on various screen sizes.
 ---
