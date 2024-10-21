@@ -1,6 +1,6 @@
 README
 
-### **PREVENT**
+### PREVENT
 
 ## UX
 
