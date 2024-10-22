@@ -145,6 +145,11 @@ You can fork this repository by using the following steps:
 ## Citations
 The websites and resources listed here were used to educate and inspire the production of this site and where listed provide snippets of code and/or act a tutorials in how to craft certain elements of the project:
 
+- [W3 Schools](https://www.w3schools.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- 
+
 ---
 
 ## Acknowledgements
