@@ -124,9 +124,6 @@ nav {
 
 /*Footer*/
 
-.social {
-    
-}
 
 #social-networks {
     text-align: center;
@@ -144,6 +141,7 @@ nav {
 
 .social-links {
     padding-bottom: 15px;
+   
 }
 
 .social-links li a i {
