@@ -3,6 +3,7 @@ Return back to [README.md](README.md)
 ### Code validation
 All my HTML was validated through [HTML WC3 Validator](https://validator.w3.org/)
 Screen shots for each page are provided below:
+
 Home: [WC3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgeoff-fletcher.github.io%2FPrevent-Project%2Findex.html)
 
 ![WC3-homeclear](https://github.com/user-attachments/assets/e41b712a-0a4b-45e1-b9bb-7556952f0519)
