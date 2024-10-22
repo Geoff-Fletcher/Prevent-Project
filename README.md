@@ -149,7 +149,7 @@ The websites and resources listed here were used to educate and inspire the prod
 ## Acknowledgements
 
 Big Thanks to my September 2024 Bootcamp 1 course mates for putting up with my nonsense when it comes to question time!
-Coding Coach John whom really helped with a bunnch of my bootstrap queries, and Shelley Maughan (my tutor) who helped in many, many ways and whos great README inspired this and who I borrowed a bunch of my Tech and deployment links from (You saved me a lot of typing)
+Coding Coach John Reardon whom really helped with a bunnch of my bootstrap queries, and Shelley Maughan (my tutor) who helped in many, many ways and whos great README inspired this and who I borrowed a bunch of my Tech and deployment links from (You saved me a lot of typing)
 
 ---
 
