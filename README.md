@@ -20,7 +20,11 @@ This website was designed to be as clear and concise as possible and have a simp
 ## Color Scheme
 
 The contrast color scheme is designed to make it easy for users to navigate and draw the eye round the page. The color scheme makes the actions on the website really draw the eye and easy to identify which I think helps suggest the idea that Prevent is an active duty and that the user should feel confident to do what they think is necessary.
-I used coolers to generate the my color palette for this website
+
+I used Coolors [https://coolors.co/1f1f1f-a7a7a7-f05f40-df4929-ebebeb](https://coolors.co/1f1f1f-a7a7a7-f05f40-df4929-ebebeb) to generate the color palette for this website.
+
+![Palette](https://github.com/user-attachments/assets/f10068c3-adab-4f3d-911d-a36489a44725)
+
 
 ---
 
