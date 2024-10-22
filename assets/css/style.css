@@ -108,7 +108,8 @@ nav {
 /* Image Styles*/
 
 .img-fluid {
-    padding: 0;
+    width: 100%;
+    object-fit: contain;
 }
 
 /* Heading Styles */
