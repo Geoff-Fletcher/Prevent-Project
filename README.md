@@ -98,6 +98,7 @@ This explains to the user what taking action will mean, whilst the button here g
 ---
 
 ## Testing
+Testing is included in the seperate file [TESTING.md](TESTING.md)
 
 ## Deployment
 
