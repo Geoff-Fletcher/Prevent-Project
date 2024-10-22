@@ -25,6 +25,8 @@ p {
     margin-top: 15px;
     background-color: #a7a7a7;
     color: #0a0a0a;
+    padding: 10px;
+    border-radius: 5%;
 }
 
 btn {
