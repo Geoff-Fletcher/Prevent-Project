@@ -21,6 +21,10 @@ h1, h2, h3  {
     color: #df4929;
 }
 
+h5 {
+    padding-top: 20px;
+}
+
 p {
     margin-top: 15px;
     background-color: #a7a7a7;
